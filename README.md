@@ -1,4 +1,5 @@
 # Animated Card UI using HTML & CSS
+live Link : https://atharva9191.github.io/CSS-Card/
 
 This repository contains a simple card-based user interface** created using pure HTML and CSS.  
 The project focuses on layout design, visual hierarchy, and clean styling suitable for beginners.
